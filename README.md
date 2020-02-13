@@ -1,2 +1,5 @@
 # bootstrap_test
-test
+
+-instalation en CDN
+-télécharger bootstrap 4
+- faire une page 
